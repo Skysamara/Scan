@@ -1,4 +1,4 @@
-package ru.meridian.scan
+package ru.panorobot.scan
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -6,6 +6,7 @@ import android.os.Bundle
 import com.google.zxing.integration.android.IntentIntegrator
 import com.google.zxing.integration.android.IntentResult
 import kotlinx.android.synthetic.main.activity_main.*
+import ru.panorobot.scan.R
 
 
 class MainActivity : AppCompatActivity() {
